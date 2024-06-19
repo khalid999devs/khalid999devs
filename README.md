@@ -23,7 +23,7 @@
 ### 🧰 Languages and Tools
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35px" height="30px" style="margin-right:20px;" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="padding-bottom:10px;"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35px" height="30px" style="margin-right:20px;" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35px" height="30px" style="margin-right:20px;" /></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35px" height="30px" style="margin-right:20px;" /></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35px" height="30px" style="margin-right:20px;" /></a>
