@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid999devs&label=Profile%20views&color=236ad3&logo=eye&logoColor=white&style=for-the-badge&labelColor=1155ba" alt="khalid999devs" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid999devs&label=Profile%20views&color=red&style=for-the-badge" /> </p> 
 
 - 🔭 I’m currently working on [ChemGenie LMS](https://github.com/khalid999devs/eduPlatform)
 
