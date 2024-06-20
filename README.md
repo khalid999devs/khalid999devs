@@ -62,6 +62,6 @@
 <!--stats and cards-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid999devs&show_icons=true&locale=en&layout=compact" alt="khalid999devs" /></p>
 
-<p>&nbsp;[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalid999devs)](https://github.com/anuraghazra/github-readme-stats)</p>
+&nbsp;[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalid999devs)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid999devs&" alt="khalid999devs" /></p>
