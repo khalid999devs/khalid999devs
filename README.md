@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid999devs&label=Profile%20views&color=red&style=for-the-badge" /> </p> 
 
-- 🔭 I’m currently working on [ChemGenie LMS](https://github.com/khalid999devs/eduPlatform)
+- 🔭 I’m currently working on [My Portfolio Website](https://github.com/khalid999devs/portfolio-website)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
