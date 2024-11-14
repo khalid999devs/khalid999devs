@@ -74,4 +74,8 @@
 
 &nbsp;[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalid999devs&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid999devs&theme=radical" alt="khalid999devs" /></p>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=khalid999devs&theme=radical)
+
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid999devs&theme=radical" alt="khalid999devs" /></p>-->
+
