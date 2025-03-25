@@ -13,11 +13,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid999devs&label=Profile%20views&color=red&style=for-the-badge" /> </p> 
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/khalid999devs/portfolio-website)
+- 🔭 I’m currently working on AI Agents
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack SAAS Development**
 
-- 💬 Ask me about **ReactJS, MERN, Javascript**
+- 💬 Ask me about **ReactJS, MERN, PERN, JavaScript, TypeScript**
 
 - 📫 How to reach me **khalidahammeduzzal@gmail.com**
 
