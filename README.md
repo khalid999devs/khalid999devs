@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Software Architecture and SDLC**
 
-- 💬 Ask me about **React Native, Swift, Typescript, NextJS, ReactJS, MERN, PERN, SAAS Solutions**
+- 💬 Ask me about **Mobile App Development, Swift, Typescript, NextJS, ReactJS, MERN, PERN, Web & SAAS Solutions**
 
 - 📫 How to reach me **khalidahammeduzzal@gmail.com**
 
