@@ -22,9 +22,17 @@ I build software primarily across web and mobile, with experience spanning backe
 
 I'm a software engineer focused on building and shipping real products.
 
-Most of my experience is in web and mobile engineering, with work across frontend architecture, backend services, React Native, native iOS integrations, cloud infrastructure, developer tooling, computer vision, and AI-enabled features.
+Most of my experience is in web and mobile engineering, with work across frontend architecture, backend systems, native development, cloud infrastructure, developer tooling, computer vision, and AI-enabled features.
 
-I enjoy owning problems beyond implementation, from understanding the product need and making technical decisions to shipping, handling edge cases, and improving the system after release.
+I enjoy owning problems beyond implementation, from understanding the product need and making technical decisions to handling edge cases, shipping, and improving the system after release.
+
+## Production experience
+
+Previously worked on consumer mobile products at [LiftOff](https://liftoffrank.com/), contributing to production features across React Native and native iOS.
+
+My work included **iOS widgets, Live Activities, native platform integrations, and other user-facing mobile features** shipped as part of the LiftOff product.
+
+I also worked on [Jump AI](https://apps.apple.com/us/app/jump-ai-jump-higher-faster/id6748652914), where I built the **native AI camera system and jump detection pipeline** used to process camera input and detect jumps in real time.
 
 ## Current work
 
