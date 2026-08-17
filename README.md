@@ -4,7 +4,7 @@
 
 ### Software Engineer · Web, Mobile, Open Source & Applied AI
 
-I build software primarily across web and mobile, with experience spanning backend systems, native development, cloud infrastructure, developer tooling, and applied AI.
+I build products across web and mobile, with work spanning backend systems, native integrations, cloud infrastructure, developer tooling, plugins, and applied AI.
 
 <br />
 
