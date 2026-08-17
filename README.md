@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 # Khalid Ahammed
@@ -6,7 +7,20 @@
 
 I build production software across web and mobile, with a focus on product engineering, native integrations, developer tooling, and AI-enabled systems.
 
-[Portfolio](https://khalidahammed.com) · [LinkedIn](https://linkedin.com/in/khalid-ahammed) · [npm](https://www.npmjs.com/package/react-native-pose-detection) · [Email](mailto:khalidahammeduzzal@gmail.com)
+<p>
+  <a href="https://khalidahammed.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/khalid-ahammed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.npmjs.com/package/react-native-pose-detection">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  </a>
+  <a href="mailto:khalidahammeduzzal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 </div>
 
@@ -16,7 +30,7 @@ I build production software across web and mobile, with a focus on product engin
 
 I'm a software engineer based in Bangladesh, working across web, mobile, backend systems, and applied AI.
 
-I enjoy owning the path from an idea to something people can actually use — shaping the architecture, building the product, handling the less-visible edge cases, shipping it, and then improving it from what happens in the real world.
+I enjoy taking products from an idea to something people can actually use — shaping the architecture, building the product, handling the less-visible edge cases, shipping it, and improving it based on what happens in the real world.
 
 My recent work has included full-stack products, React Native and native iOS development, computer vision, AI-enabled workflows, and open-source developer tooling.
 
@@ -48,17 +62,25 @@ The goal is simple: make daily memory tracking lightweight enough to become a ha
 
 **Real-time human pose detection for React Native and Expo.**
 
-[![npm version](https://img.shields.io/npm/v/react-native-pose-detection?label=npm)](https://www.npmjs.com/package/react-native-pose-detection)
-[![CI](https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/khalid999devs/react-native-pose-detection/blob/main/LICENSE)
+<p>
+  <a href="https://www.npmjs.com/package/react-native-pose-detection">
+    <img src="https://img.shields.io/npm/v/react-native-pose-detection?label=npm" alt="npm version" />
+  </a>
+  <a href="https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml">
+    <img src="https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  </a>
+  <a href="https://github.com/khalid999devs/react-native-pose-detection/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
+  </a>
+</p>
 
 ```bash
 npx expo install react-native-pose-detection
-```
+````
 
 Built on MediaPipe, the library detects **33 body landmarks per frame** while keeping detection, smoothing, drawing, and trigger logic in the native layer.
 
-It supports both Expo and bare React Native projects, native pose overlays and triggers, photo/video processing, multiple model variants, and adaptive performance tuning. Landmark data only crosses to JavaScript when the application asks for it.
+It supports Expo and bare React Native projects, native pose overlays and triggers, photo and video processing, multiple model variants, and adaptive performance tuning. Landmark data only crosses to JavaScript when the application asks for it.
 
 [GitHub repository](https://github.com/khalid999devs/react-native-pose-detection) · [npm package](https://www.npmjs.com/package/react-native-pose-detection)
 
@@ -66,29 +88,29 @@ It supports both Expo and bare React Native projects, native pose overlays and t
 
 ## Engineering
 
-**Languages**  
+**Languages**
 TypeScript · JavaScript · Swift · C++ · Python
 
-**Web & Product**  
+**Web & Product**
 React · Next.js · Node.js · Express
 
-**Mobile & Apple Platforms**  
+**Mobile & Apple Platforms**
 React Native · Expo · SwiftUI · ActivityKit · HealthKit
 
-**Backend & Data**  
+**Backend & Data**
 REST APIs · PostgreSQL · MySQL · Redis · Prisma · Sequelize
 
-**Cloud & Delivery**  
+**Cloud & Delivery**
 Docker · Cloudflare · Google Cloud · Vercel · GitHub Actions
 
-**AI & Computer Vision**  
+**AI & Computer Vision**
 LLM integrations · AI workflows · MediaPipe · on-device pose estimation
 
 ---
 
-## How I approach engineering
+## Engineering approach
 
-I prefer simple architectures that are easy to understand and change. I add complexity when the problem earns it, not because the technology is interesting on its own.
+I prefer architectures that are simple to understand and easy to change. I add complexity when the problem actually requires it, rather than because a technology is interesting on its own.
 
 I care about clear APIs, performance, reliability, useful abstractions, edge cases, and leaving code easier for the next engineer — including future me — to work with.
 
@@ -96,13 +118,16 @@ I care about clear APIs, performance, reliability, useful abstractions, edge cas
 
 <div align="center">
 
-### Find me elsewhere
+### Elsewhere
 
-[**Portfolio**](https://khalidahammed.com) ·
-[**LinkedIn**](https://linkedin.com/in/khalid-ahammed) ·
-[**npm**](https://www.npmjs.com/package/react-native-pose-detection) ·
-[**YouTube**](https://www.youtube.com/@khalid999devs)
+<a href="https://khalidahammed.com">Portfolio</a>
+  ·   <a href="https://linkedin.com/in/khalid-ahammed">LinkedIn</a>
+  ·   <a href="https://www.npmjs.com/package/react-native-pose-detection">npm</a>
+  ·   <a href="https://www.youtube.com/@khalid999devs">YouTube</a>
+
+<br /><br />
 
 <sub>Dhaka, Bangladesh</sub>
 
 </div>
+```
