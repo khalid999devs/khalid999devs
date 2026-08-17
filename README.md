@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Khalid Ahammed
@@ -67,7 +66,7 @@ The goal is simple: make daily memory tracking lightweight enough to become a ha
     <img src="https://img.shields.io/npm/v/react-native-pose-detection?label=npm" alt="npm version" />
   </a>
   <a href="https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml">
-    <img src="https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml/badge.svg" alt="CI" />
+    <img src="https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml/badge.svg" alt="CI status" />
   </a>
   <a href="https://github.com/khalid999devs/react-native-pose-detection/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
@@ -76,7 +75,7 @@ The goal is simple: make daily memory tracking lightweight enough to become a ha
 
 ```bash
 npx expo install react-native-pose-detection
-````
+```
 
 Built on MediaPipe, the library detects **33 body landmarks per frame** while keeping detection, smoothing, drawing, and trigger logic in the native layer.
 
@@ -88,23 +87,40 @@ It supports Expo and bare React Native projects, native pose overlays and trigge
 
 ## Engineering
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Languages**
+
 TypeScript · JavaScript · Swift · C++ · Python
 
 **Web & Product**
+
 React · Next.js · Node.js · Express
 
 **Mobile & Apple Platforms**
+
 React Native · Expo · SwiftUI · ActivityKit · HealthKit
 
+</td>
+<td valign="top" width="50%">
+
 **Backend & Data**
+
 REST APIs · PostgreSQL · MySQL · Redis · Prisma · Sequelize
 
 **Cloud & Delivery**
+
 Docker · Cloudflare · Google Cloud · Vercel · GitHub Actions
 
 **AI & Computer Vision**
+
 LLM integrations · AI workflows · MediaPipe · on-device pose estimation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,14 +136,22 @@ I care about clear APIs, performance, reliability, useful abstractions, edge cas
 
 ### Elsewhere
 
-<a href="https://khalidahammed.com">Portfolio</a>
-  ·   <a href="https://linkedin.com/in/khalid-ahammed">LinkedIn</a>
-  ·   <a href="https://www.npmjs.com/package/react-native-pose-detection">npm</a>
-  ·   <a href="https://www.youtube.com/@khalid999devs">YouTube</a>
+<a href="https://khalidahammed.com">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/khalid-ahammed">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.npmjs.com/package/react-native-pose-detection">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+</a>
+<a href="https://www.youtube.com/@khalid999devs">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
 
-<br /><br />
+<br />
+<br />
 
 <sub>Dhaka, Bangladesh</sub>
 
 </div>
-```
