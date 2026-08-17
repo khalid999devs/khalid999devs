@@ -1,78 +1,108 @@
-[![MasterHead](https://github.com/khalid999devs/khalid999devs/blob/main/khalid%20ahammed.svg)](https://linkedin.com/in/khalid-ahammed)
-<h1 align="center">Hi 👋, I'm Khalid Ahammed Uzzal</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Passionate%20Programmer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif"/> 
+<div align="center">
 
+# Khalid Ahammed
 
+### Software Engineer · Web, Mobile, Open Source & Applied AI
 
+I build production software across web and mobile, with a focus on product engineering, native integrations, developer tooling, and AI-enabled systems.
 
+[Portfolio](https://khalidahammed.com) · [LinkedIn](https://linkedin.com/in/khalid-ahammed) · [npm](https://www.npmjs.com/package/react-native-pose-detection) · [Email](mailto:khalidahammeduzzal@gmail.com)
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid999devs&label=Profile%20views&color=red&style=for-the-badge" /> </p> 
+---
 
-- 🔭 I’m currently doing Software Developments
+## About
 
-- 🌱 I’m currently learning **Software Architecture, SDLC & ML**
+I'm a software engineer based in Bangladesh, working across web, mobile, backend systems, and applied AI.
 
-- 💬 Ask me about **Mobile App Development, Swift, Typescript, NextJS, ReactJS, MERN, PERN, Web & SAAS Solutions**
+I enjoy owning the path from an idea to something people can actually use — shaping the architecture, building the product, handling the less-visible edge cases, shipping it, and then improving it from what happens in the real world.
 
-- 📫 How to reach me **khalidahammeduzzal@gmail.com**
+My recent work has included full-stack products, React Native and native iOS development, computer vision, AI-enabled workflows, and open-source developer tooling.
 
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/khalid-ahammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-ahammed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@khalid999devs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khalid ahammed" height="30" width="40" /></a>
-</p>
+---
 
-<!--<h3 align="left">Languages and Tools:</h3> -->
+## Currently building
 
-### 🧰 Languages and Tools
+### [ScamOffer](https://scamoffer.com)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactJs" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://reactrouter.com/en/main" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressJs" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://sequelize.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="sequelize" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://threejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="three.js" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindCSS" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" alt="MUI-react" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35px" height="30px" style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35px" height="30px"  style="vertical-align: middle; margin-right: 10px;" /></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="linux" width="35px" height="30px"  style="vertical-align: middle; margin-right: 10px;" /></a>
+A tool for checking suspicious job offers, task scams, and online-earning schemes.
 
-</p>
+I'm building it around the way these scams appear in practice — across messages, screenshots, job descriptions, websites, and multi-step conversations rather than treating every check as an isolated block of text.
 
+**Live · Currently in testing · Private source**
 
-<br/>
-<!--stats and cards-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid999devs&show_icons=true&locale=en&layout=compact&theme=radical" alt="khalid999devs" /></p>
+### Remme
 
-&nbsp;[![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalid999devs&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+A cross-platform mobile app for capturing and revisiting everyday memories.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid999devs&theme=radical" alt="khalid999devs" /></p>
+The goal is simple: make daily memory tracking lightweight enough to become a habit without turning it into another complicated journaling app.
 
+**In development · Private source**
+
+---
+
+## Open source
+
+### [`react-native-pose-detection`](https://github.com/khalid999devs/react-native-pose-detection)
+
+**Real-time human pose detection for React Native and Expo.**
+
+[![npm version](https://img.shields.io/npm/v/react-native-pose-detection?label=npm)](https://www.npmjs.com/package/react-native-pose-detection)
+[![CI](https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/khalid999devs/react-native-pose-detection/blob/main/LICENSE)
+
+```bash
+npx expo install react-native-pose-detection
+```
+
+Built on MediaPipe, the library detects **33 body landmarks per frame** while keeping detection, smoothing, drawing, and trigger logic in the native layer.
+
+It supports both Expo and bare React Native projects, native pose overlays and triggers, photo/video processing, multiple model variants, and adaptive performance tuning. Landmark data only crosses to JavaScript when the application asks for it.
+
+[GitHub repository](https://github.com/khalid999devs/react-native-pose-detection) · [npm package](https://www.npmjs.com/package/react-native-pose-detection)
+
+---
+
+## Engineering
+
+**Languages**  
+TypeScript · JavaScript · Swift · C++ · Python
+
+**Web & Product**  
+React · Next.js · Node.js · Express
+
+**Mobile & Apple Platforms**  
+React Native · Expo · SwiftUI · ActivityKit · HealthKit
+
+**Backend & Data**  
+REST APIs · PostgreSQL · MySQL · Redis · Prisma · Sequelize
+
+**Cloud & Delivery**  
+Docker · Cloudflare · Google Cloud · Vercel · GitHub Actions
+
+**AI & Computer Vision**  
+LLM integrations · AI workflows · MediaPipe · on-device pose estimation
+
+---
+
+## How I approach engineering
+
+I prefer simple architectures that are easy to understand and change. I add complexity when the problem earns it, not because the technology is interesting on its own.
+
+I care about clear APIs, performance, reliability, useful abstractions, edge cases, and leaving code easier for the next engineer — including future me — to work with.
+
+---
+
+<div align="center">
+
+### Find me elsewhere
+
+[**Portfolio**](https://khalidahammed.com) ·
+[**LinkedIn**](https://linkedin.com/in/khalid-ahammed) ·
+[**npm**](https://www.npmjs.com/package/react-native-pose-detection) ·
+[**YouTube**](https://www.youtube.com/@khalid999devs)
+
+<sub>Dhaka, Bangladesh</sub>
+
+</div>
