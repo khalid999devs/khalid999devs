@@ -6,22 +6,17 @@
 
 I build production software across web and mobile, with a focus on product engineering, native integrations, developer tooling, and AI-enabled systems.
 
-<p>
-  <a href="https://khalidahammed.com">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/khalid-ahammed">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.npmjs.com/package/react-native-pose-detection">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  </a>
-  <a href="mailto:khalidahammeduzzal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge)](https://khalidahammed.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-ahammed)&nbsp;
+[![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~khalid999devs)&nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khalid999devs)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-3B3B3B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidahammeduzzal@gmail.com)
 
 </div>
+
+<br />
 
 ---
 
@@ -33,6 +28,8 @@ I enjoy taking products from an idea to something people can actually use — sh
 
 My recent work has included full-stack products, React Native and native iOS development, computer vision, AI-enabled workflows, and open-source developer tooling.
 
+I care about the parts that sit beyond the demo too — architecture, performance, edge cases, deployment, maintainability, and how software behaves once real users start using it.
+
 ---
 
 ## Currently building
@@ -41,15 +38,17 @@ My recent work has included full-stack products, React Native and native iOS dev
 
 A tool for checking suspicious job offers, task scams, and online-earning schemes.
 
-I'm building it around the way these scams appear in practice — across messages, screenshots, job descriptions, websites, and multi-step conversations rather than treating every check as an isolated block of text.
+Instead of treating every submission as an isolated block of text, I'm building the analysis around how these scams actually unfold — across messages, screenshots, job descriptions, websites, and multi-step conversations.
 
-**Live · Currently in testing · Private source**
+**Live · Testing with real-world cases · Private source**
+
+<br />
 
 ### Remme
 
 A cross-platform mobile app for capturing and revisiting everyday memories.
 
-The goal is simple: make daily memory tracking lightweight enough to become a habit without turning it into another complicated journaling app.
+I'm keeping the product intentionally simple: make daily memory tracking easy enough to become a habit without turning it into another complicated journaling system.
 
 **In development · Private source**
 
@@ -61,17 +60,9 @@ The goal is simple: make daily memory tracking lightweight enough to become a ha
 
 **Real-time human pose detection for React Native and Expo.**
 
-<p>
-  <a href="https://www.npmjs.com/package/react-native-pose-detection">
-    <img src="https://img.shields.io/npm/v/react-native-pose-detection?label=npm" alt="npm version" />
-  </a>
-  <a href="https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml">
-    <img src="https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml/badge.svg" alt="CI status" />
-  </a>
-  <a href="https://github.com/khalid999devs/react-native-pose-detection/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License" />
-  </a>
-</p>
+[![npm](https://img.shields.io/npm/v/react-native-pose-detection?label=npm)](https://www.npmjs.com/package/react-native-pose-detection)
+[![CI](https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml/badge.svg)](https://github.com/khalid999devs/react-native-pose-detection/actions/workflows/ci.yml)
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/khalid999devs/react-native-pose-detection/blob/main/LICENSE)
 
 ```bash
 npx expo install react-native-pose-detection
@@ -81,77 +72,34 @@ Built on MediaPipe, the library detects **33 body landmarks per frame** while ke
 
 It supports Expo and bare React Native projects, native pose overlays and triggers, photo and video processing, multiple model variants, and adaptive performance tuning. Landmark data only crosses to JavaScript when the application asks for it.
 
-[GitHub repository](https://github.com/khalid999devs/react-native-pose-detection) · [npm package](https://www.npmjs.com/package/react-native-pose-detection)
+[View source & documentation](https://github.com/khalid999devs/react-native-pose-detection) · [View on npm](https://www.npmjs.com/package/react-native-pose-detection)
 
 ---
 
 ## Engineering
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
+**Languages**  
 TypeScript · JavaScript · Swift · C++ · Python
 
-**Web & Product**
-
+**Web & Product**  
 React · Next.js · Node.js · Express
 
-**Mobile & Apple Platforms**
-
+**Mobile & Apple Platforms**  
 React Native · Expo · SwiftUI · ActivityKit · HealthKit
 
-</td>
-<td valign="top" width="50%">
-
-**Backend & Data**
-
+**Backend & Data**  
 REST APIs · PostgreSQL · MySQL · Redis · Prisma · Sequelize
 
-**Cloud & Delivery**
-
+**Cloud & Delivery**  
 Docker · Cloudflare · Google Cloud · Vercel · GitHub Actions
 
-**AI & Computer Vision**
-
+**AI & Computer Vision**  
 LLM integrations · AI workflows · MediaPipe · on-device pose estimation
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## Engineering approach
 
-I prefer architectures that are simple to understand and easy to change. I add complexity when the problem actually requires it, rather than because a technology is interesting on its own.
+I prefer architectures that are easy to understand and change. I add complexity when the problem actually needs it, rather than because a technology happens to be interesting.
 
-I care about clear APIs, performance, reliability, useful abstractions, edge cases, and leaving code easier for the next engineer — including future me — to work with.
-
----
-
-<div align="center">
-
-### Elsewhere
-
-<a href="https://khalidahammed.com">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://linkedin.com/in/khalid-ahammed">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.npmjs.com/package/react-native-pose-detection">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
-</a>
-<a href="https://www.youtube.com/@khalid999devs">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-
-<br />
-<br />
-
-<sub>Dhaka, Bangladesh</sub>
-
-</div>
+I care about clear APIs, sensible abstractions, performance, reliability, and leaving code easier for the next engineer — including future me — to work with.
